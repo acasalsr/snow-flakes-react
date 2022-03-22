@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/snow-flakes-react/static/css/main.3ed3c06b.css",
+    "main.js": "/snow-flakes-react/static/js/main.b672973d.js",
+    "static/js/787.b3f94ba2.chunk.js": "/snow-flakes-react/static/js/787.b3f94ba2.chunk.js",
+    "index.html": "/snow-flakes-react/index.html",
+    "main.3ed3c06b.css.map": "/snow-flakes-react/static/css/main.3ed3c06b.css.map",
+    "main.b672973d.js.map": "/snow-flakes-react/static/js/main.b672973d.js.map",
+    "787.b3f94ba2.chunk.js.map": "/snow-flakes-react/static/js/787.b3f94ba2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ed3c06b.css",
+    "static/js/main.b672973d.js"
+  ]
+}
